@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/manas/.android/build-cache/c460eee092589081dd8e2fc3841d889bf59a77ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/manas/ANDROID-APP-FOR-EVENT-/app/build/intermediates/pre-dexed/debug/classes_0939df8e60d166153b0c55de0c1f003f810a7bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manas/.android/build-cache/a330f46d83b575acc8697e36c30cc324837dbde6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/manas/ANDROID-APP-FOR-EVENT-/app/build/intermediates/pre-dexed/debug/classes_d4bd15ca36da313c724b84c78a7f22c29d2aa065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manas/.android/build-cache/a4450b0b3d07e60a1c0f1ca8e1ae00252bdff03f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/manas/ANDROID-APP-FOR-EVENT-/app/build/intermediates/pre-dexed/debug/classes_b2ed84cdb1a6d1e55902899a350337b659c86330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manas/.android/build-cache/6822bb4ba31fd4ec7470603b7af8d186006d4fa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/manas/ANDROID-APP-FOR-EVENT-/app/build/intermediates/pre-dexed/debug/classes_ad9b3a0a87972c193f56e0da6f771e157920717c.jar" />
+    </item>
+
+</items>

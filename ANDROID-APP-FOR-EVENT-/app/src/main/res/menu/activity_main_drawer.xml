@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+android:icon="@drawable/ic_home_black_24dp"
+            android:title="HOME" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/Schedule"
+            android:icon="@drawable/ic_today_black_24dp"
+            android:title="EVENTS"/>
+        <item
+            android:id="@+id/News"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="NEWS" />
+
+
+ <!--       <item
+            android:id="@+id/nav_manage"
+android:icon="@drawable/ic_payment_black_24dp"
+            android:title="Buy tickets" />
+        <item
+            android:id="@+id/partner"
+            android:icon="@mipmap/handshake"
+            android:title="Partner" /> -->
+
+    </group>
+
+    <item android:title="COMMUNICATE">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_question_answer_black_24dp"
+                android:title="FAQ" />
+            <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/ic_supervisor_account_black_24dp"
+                android:title="info" />
+
+            <item
+                android:id="@+id/main"
+                android:icon="@drawable/ic_mail_black_24dp"
+                android:title="Mail" />
+        </menu>
+    </item>
+
+</menu>
